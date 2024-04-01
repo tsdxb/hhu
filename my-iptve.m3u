@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/10/8/1570468475876_655.png" group-title="中国央视", 央视新闻·正直播5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
