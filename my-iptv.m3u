@@ -27,7 +27,7 @@ http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1, CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-
-
+#EXTINF:-1, TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
