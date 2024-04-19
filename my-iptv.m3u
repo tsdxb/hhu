@@ -17,14 +17,20 @@ https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1, CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1, CCTV1
+http://stream.smntv.cn/smtv1/sd/live.m3u8
+#EXTINF:-1, CCTV2
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1, CCTV3
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1, CCTV4
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1, CCTV6
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1, CCTV8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+#EXTINF:-1, CCTV9
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1, CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1, 东方卫视
